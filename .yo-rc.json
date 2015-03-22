@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Research Operating Systems in the Real World",
+    "packageVersion": "0.0.1",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "Marneus68",
+    "githubRepository": "Research_Paper_Presentation"
+  }
+}
