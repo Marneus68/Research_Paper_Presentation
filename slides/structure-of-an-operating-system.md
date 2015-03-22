@@ -1,3 +1,3 @@
 ##  Structure of an Operating System
 
-![Lel](./img/os_strcture_inv.png)
+![Structure of an OS](./img/os_strcture_inv.png)
