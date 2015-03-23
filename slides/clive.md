@@ -1,9 +1,11 @@
 ##  Clive
 
+Built on Go.
+
 ### Classification
 
-| Plan 9 |
+| Clive |
 |----------------------------|
-| Interface type:        | CLI/GUI |
+| Interface type:        | CLI |
 | Internal Architecture: | Hybrid Kernel  |
 | Operating Mode:        | Multi-user, Multitasking  |
