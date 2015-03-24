@@ -2,11 +2,11 @@
 
 
 - Hurd
-    - Kernel developed bu the GNU project
+    - Kernel developed by the GNU project
     - Meant to be a replacement for Linux
 
 - Built in C
-- Implements en true Microkernel
+- Implements in true Microkernel
 
 ### Classification
 
