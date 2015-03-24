@@ -6,7 +6,7 @@
     - Meant to be a replacement for Linux
 
 - Built in C
-- Implements in true Microkernel
+- Implements a true Microkernel
 
 ### Classification
 
